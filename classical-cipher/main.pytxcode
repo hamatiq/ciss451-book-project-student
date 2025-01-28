@@ -1,0 +1,6 @@
+=>PYTHONTEX#py#default#default#0#c#####3#
+from solutions import *; clear()
+=>PYTHONTEX#py#default#default#1#c####classical-cipher-shift-cipher.tex#1#
+from solutions import *; prepare_solutions()
+=>PYTHONTEX#py#default#default#2#c####classical-cipher-modular-arithmetic.tex#1#
+from solutions import *; prepare_solutions()

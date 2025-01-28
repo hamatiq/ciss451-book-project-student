@@ -1,0 +1,6 @@
+{
+  "latex-workshop.linting.chktex.enabled": true,
+  "latex-workshop.latex.rootFile.useSubFile": true,
+  "latex-workshop.latex.rootFile.indicator": "\\documentclass[]{}",
+  "latex-workshop.latex.rootFile.doNotPrompt": true
+}
